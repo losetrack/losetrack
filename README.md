@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Shengyang Li</h1>
+<h1 align="center">Hi 👋 I'm losetrack</h1>
 
 <p align="center">
 Robotics | ROS2 | Reinforcement Learning | Computer Vision
